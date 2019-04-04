@@ -64,7 +64,6 @@ public class Alertdialog extends AppCompatActivity {
         v = LayoutInflater.from(this).inflate(R.layout.alertlayout,null);
         AlertDialog.Builder builder=new AlertDialog.Builder(this);
         builder.setIcon(R.drawable.header_logo);
-        builder.setTitle("对话框");
         builder.setView(v);
         builder.setPositiveButton("Sign in",null);
         builder.setNegativeButton( "Cancel",null);
