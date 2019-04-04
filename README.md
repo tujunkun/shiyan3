@@ -41,11 +41,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    }
+}
+    
+    
     
 结果图：
 
+
+
 ![Image text](https://github.com/tujunkun/shiyan3/blob/master/a1.png)
+
+
 
 2代码：
 
@@ -73,6 +79,9 @@ public class Alertdialog extends AppCompatActivity {
 ![Image text](https://github.com/tujunkun/shiyan3/blob/master/a2.png)
 
 ![Image text](https://github.com/tujunkun/shiyan3/blob/master/a3.png)
+
+
+
 
 3代码：
 
