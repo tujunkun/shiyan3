@@ -1,4 +1,5 @@
-1代码：
+
+![Image text](https://github.com/tujunkun/shiyan3/blob/master/a1.png)
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG="lifecycle";
@@ -45,15 +46,17 @@ public class MainActivity extends AppCompatActivity {
     
     
     
-结果图：
+
+![Image text](https://github.com/tujunkun/shiyan3/blob/master/a2.png)
 
 
 
-![Image text](https://github.com/tujunkun/shiyan3/blob/master/a1.png)
+![Image text](https://github.com/tujunkun/shiyan3/blob/master/a3.png)
 
 
 
-2代码：
+
+
 
 public class Alertdialog extends AppCompatActivity {
     @Override
@@ -73,16 +76,9 @@ public class Alertdialog extends AppCompatActivity {
 
 }
 
-结果图：
 
-![Image text](https://github.com/tujunkun/shiyan3/blob/master/a2.png)
+![Image text](https://github.com/tujunkun/shiyan3/blob/master/a4.png)
 
-![Image text](https://github.com/tujunkun/shiyan3/blob/master/a3.png)
-
-
-
-
-3代码：
 
 
 public class MainActivity extends AppCompatActivity {
@@ -155,6 +151,3 @@ public class MainActivity extends AppCompatActivity {
 
 </menu>
 
-结果图：
-
-![Image text](https://github.com/tujunkun/shiyan3/blob/master/a4.png)
