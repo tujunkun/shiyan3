@@ -1,6 +1,6 @@
-
 ![Image text](https://github.com/tujunkun/shiyan3/blob/master/a1.png)
 
+```
 public class MainActivity extends AppCompatActivity {
     public static final String TAG="lifecycle";
     private String[] names=new String[]
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-    
+```
     
     
 
