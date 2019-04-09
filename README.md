@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 public class Alertdialog extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -75,12 +75,12 @@ public class Alertdialog extends AppCompatActivity {
 }
 
 }
-
+```
 
 ![Image text](https://github.com/tujunkun/shiyan3/blob/master/a4.png)
 
 
-
+```
 public class MainActivity extends AppCompatActivity {
     public static final String TAG="lifecycle";
     float size[]={40,50,60};
@@ -123,7 +123,9 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
  }
- 
+```
+
+```
  <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/item"
@@ -148,6 +150,5 @@ public class MainActivity extends AppCompatActivity {
                 android:title="黑"></item>
         </menu>
     </item>
-
 </menu>
-
+```
